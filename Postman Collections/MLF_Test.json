@@ -1,0 +1,60 @@
+{
+  "variables": [],
+  "info": {
+    "name": "MLF Test",
+    "_postman_id": "6723edcc-f6b8-6152-07de-76335bcdccb5",
+    "description": "",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "_postman_id": "feee7aa7-bc46-1951-a65e-f7ae3d889bb3",
+      "name": "F1",
+      "description": "",
+      "item": [
+        {
+          "_postman_id": "a864bc1e-f794-24f2-9f00-2a7fb17aedab",
+          "name": "F11",
+          "description": "",
+          "item": [
+            {
+              "_postman_id": "cd06f64f-8e2a-bbef-748a-dfa9292f115a",
+              "name": "F111",
+              "description": "",
+              "item": [],
+              "_postman_isSubFolder": true
+            }
+          ],
+          "_postman_isSubFolder": true
+        },
+        {
+          "_postman_id": "02bfbaef-3824-03a3-7a52-e029ab0524ea",
+          "name": "F12",
+          "description": "",
+          "item": [
+            {
+              "_postman_id": "b20a8e97-0702-dc1e-2e93-693b8543a466",
+              "name": "F121",
+              "description": "",
+              "item": [],
+              "_postman_isSubFolder": true
+            }
+          ],
+          "_postman_isSubFolder": true
+        }
+      ]
+    },
+    {
+      "_postman_id": "5d65bea9-ab6a-a672-f3f1-f5b5bba9030c",
+      "name": "F2",
+      "description": "",
+      "item": []
+    },
+    {
+      "_postman_id": "6683d9b7-4bc8-de0c-79bb-93350f5e3481",
+      "name": "F3",
+      "description": "",
+      "item": []
+    }
+  ]
+}
